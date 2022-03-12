@@ -31,7 +31,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![ES6](https://img.shields.io/badge/-ES6-yellow?style=flat-square&logo=es6)
-![UNIX](https://img.shields.io/badge/-Unix-E45826?style=flat-square&logo=Linux)
+![UNIX](https://img.shields.io/badge/-Unix-E45826?style=flat-square&logo=Unix)
 ![Linux](https://img.shields.io/badge/-Linux-E45826?style=flat-square&logo=Linux)
 ![Shell Scripting](https://img.shields.io/badge/-ShellScripting-0E185F?style=flat-square&logo=shell)
 
