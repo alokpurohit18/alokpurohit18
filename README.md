@@ -2,7 +2,7 @@
 
 ## I'm a Programmer, Developer and Problem Solver!!
 
-- 🎓 I'm a final year undergrad student, pursuing B. Tech in Computer Engineerinh from [Mukesh Patel School of Technology Management and Engineering, NMIMS University, Mumbai](https://engineering.nmims.edu/)
+- 🎓 I'm a final year undergrad student, pursuing B. Tech in Computer Engineering from [Mukesh Patel School of Technology Management and Engineering, NMIMS University, Mumbai](https://engineering.nmims.edu/)
 - 🌱 I’m currently learning everything 🤣. But I am more interested in Javascript, Python, Java and Object Oriented Programming
 - 💻 I love working with **ReactJS.**
 - 🥅 2022 Goals: Learn more about Data Analysis, Big Data Engineering and Machine Learning. I also want to contribute more to DevOps and to the Open Source Community.
@@ -21,7 +21,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/AlokPur32580593)](https://twitter.com/AlokPur32580593)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saloniguptasg12@gmail.com)](mailto:alokpurohit18@gmail.com)
 
-## Technolgies and Languages :
+### Technolgies and Languages :
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -31,6 +31,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![ES6](https://img.shields.io/badge/-ES6-yellow?style=flat-square&logo=es6)
+![C++](https://img.shields.io/badge/-c++-E34A86?style=flat-square&logo=c++)
 
 ### Libraries & Frameworks :
 
