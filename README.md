@@ -1,12 +1,12 @@
 # Hi there, I'm Alok Rajpurohit 👋 
 
-## I'm a Programmer, Developer and Problem Solver!!
+## I'm a Programmer, Developer and Problem Solver!
 
 - 🎓 I'm a final year undergrad student, pursuing B. Tech in Computer Engineering from [Mukesh Patel School of Technology Management and Engineering, NMIMS University, Mumbai.](https://engineering.nmims.edu/)
 - 🌱 I’m currently learning everything 🤣. But I am more interested in Javascript, Python, Java and Object Oriented Programming.
 - 💻 I love working with **ReactJS.**
 - 🥅 2022 Goals: Learn more about Data Analysis, Big Data Engineering and Machine Learning. I also want to contribute more to DevOps and to the Open Source Community.
-- ⚡ Fun fact: I love to watch, play and follow football. I am a hardcore Red Devil !!!
+- ⚡ Fun fact: I love to watch, play and follow football. I am a hardcore Red Devil!!!
 - 😻 Check out my Personal Website: [My Portfolio Website](https://alokpurohit18.github.io/PersonalWebsite/)
 
 ---
