@@ -31,8 +31,9 @@
 ![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![ES6](https://img.shields.io/badge/-ES6-yellow?style=flat-square&logo=es6)
-![Linux](https://img.shields.io/badge/-Linux-E34A86?style=flat-square&logo=Linux)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
 ![Shell Scripting](https://img.shields.io/badge/-ShellScripting-0E185F?style=flat-square&logo=shell)
+![LaTex](https://img.shields.io/badge/-LaTex-green?style=flat-square&logo=LaTex)
 
 ### Libraries & Frameworks :
 
@@ -40,6 +41,9 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Django](https://img.shields.io/badge/-Django-blue?style=flat-square&logo=django)
 ![Sklearn](https://img.shields.io/badge/-sklearn-white?style=flat-square&logo=Sklearn)
+![JavaFX](https://img.shields.io/badge/-JavaFX-4D77FF?style=flat-square&logo=JavaFX)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-6610f2?style=flat-square&logo=Bootstrap)
+![AntDesign](https://img.shields.io/badge/-AntDesign-red?style=flat-square&logo=AntDesign)
 
 ### Tools:
 
