@@ -17,38 +17,38 @@
 
 ## Reach out to me on:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alok-rajpurohit-1941461a3/)](https://www.linkedin.com/in/alok-rajpurohit-1941461a3/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/AlokPur32580593)](https://twitter.com/AlokPur32580593)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saloniguptasg12@gmail.com)](mailto:alokpurohit18@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alok-rajpurohit-1941461a3/)](https://www.linkedin.com/in/alok-rajpurohit-1941461a3/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-round&logo=Twitter&logoColor=white&link=https://twitter.com/AlokPur32580593)](https://twitter.com/AlokPur32580593)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-round&logo=Gmail&logoColor=white&link=mailto:saloniguptasg12@gmail.com)](mailto:alokpurohit18@gmail.com)
 
 ### Technolgies and Languages :
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![ES6](https://img.shields.io/badge/-ES6-yellow?style=flat-square&logo=es6)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
-![Shell Scripting](https://img.shields.io/badge/-ShellScripting-0E185F?style=flat-square&logo=shell)
-![LaTex](https://img.shields.io/badge/-LaTex-green?style=flat-square&logo=LaTex)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-round&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-round&logo=javascript)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-round&logo=java)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-round&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat-round&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-round&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-round&logo=mysql)
+![ES6](https://img.shields.io/badge/-ES6-yellow?style=flat-round&logo=es6)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-round&logo=Linux)
+![Shell Scripting](https://img.shields.io/badge/-ShellScripting-0E185F?style=flat-round&logo=shell)
+![LaTex](https://img.shields.io/badge/-LaTex-green?style=flat-round&logo=LaTex)
 
 ### Libraries & Frameworks :
 
-![Jupyter](https://img.shields.io/badge/-jupyter-white?style=flat-square&logo=jupyter)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Django](https://img.shields.io/badge/-Django-blue?style=flat-square&logo=django)
-![Sklearn](https://img.shields.io/badge/-sklearn-white?style=flat-square&logo=Sklearn)
-![JavaFX](https://img.shields.io/badge/-JavaFX-4D77FF?style=flat-square&logo=JavaFX)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-6610f2?style=flat-square&logo=Bootstrap)
-![AntDesign](https://img.shields.io/badge/-AntDesign-red?style=flat-square&logo=AntDesign)
+![Jupyter](https://img.shields.io/badge/-jupyter-white?style=flat-round&logo=jupyter)
+![React](https://img.shields.io/badge/-React-black?style=flat-round&logo=react)
+![Django](https://img.shields.io/badge/-Django-blue?style=flat-round&logo=django)
+![Sklearn](https://img.shields.io/badge/-sklearn-white?style=flat-round&logo=Sklearn)
+![JavaFX](https://img.shields.io/badge/-JavaFX-4D77FF?style=flat-round&logo=JavaFX)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-6610f2?style=flat-round&logo=Bootstrap)
+![AntDesign](https://img.shields.io/badge/-AntDesign-red?style=flat-round&logo=AntDesign)
 
 ### Tools:
 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-round&logo=google-cloud)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-round&logo=git)
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a> 
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
