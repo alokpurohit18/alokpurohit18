@@ -2,10 +2,10 @@
 
 ## I'm a Programmer, Developer and Problem Solver!
 
-- 🎓 I'm a first year graduate student, pursuing M.S. in Computer Software Engineering from [Arizona State Unversity, Tempe, Arizona.](https://www.asu.edu/)
+- 🎓 I'm a second year graduate student, pursuing M.S. in Computer Software Engineering from [Arizona State Unversity, Tempe, Arizona.](https://www.asu.edu/)
 - 🌱 I’m currently learning everything 🤣. But I am more interested in Javascript, Python, Java and Object Oriented Programming.
 - 💻 I love working with **ReactJS.**
-- 🥅 2023 Goals: Learn more about Data Analysis, Big Data Engineering and Machine Learning. I also want to contribute more to DevOps and to the Open Source Community.
+- 🥅 2023 Goals: Learn more about Data Analysis, Machine Learning and DevOps. I also want to contribute more to DevOps and to the Open Source Community.
 - ⚡ Fun fact: I love to watch, play and follow football. I am a hardcore Red Devil!!!
 - 😻 Check out my Personal Website: [My Portfolio Website](https://alokpurohit18.github.io/PersonalWebsite/)
 
