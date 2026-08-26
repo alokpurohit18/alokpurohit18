@@ -4,7 +4,7 @@ Hey, I'm Alok 👋
 
 I'm a Software Engineer with experience building scalable, production-grade systems across AI-powered products, full-stack applications, and cloud platforms.
 
-Most recently at Microsoft, I have been working on AI features within Power Apps—designing telemetry systems, building governance infrastructure, and owning analytics pipelines that directly influenced product decisions and user adoption. I enjoy working on problems that sit at the intersection of **engineering, data, and user experience**.
+Most recently at Microsoft, I worked on AI features within Power Apps—designing telemetry systems, building governance infrastructure, and owning analytics pipelines that directly influenced product decisions and user adoption. I enjoy working on problems that sit at the intersection of **engineering, data, and user experience**.
 
 I’ve built systems used by thousands of users, shipped features at scale, and contributed across the stack—from backend APIs to frontend interfaces.
 
